@@ -1,0 +1,339 @@
+{
+ "groove-song2-les2": {
+  "titel": "Voorbeeld: Hold my hand (Song 2, Lesson 2)",
+  "soort": "engels",
+  "les": "Song 2 | Lesson 2 · Words and phrases",
+  "liedje": "Jess Glynne – Hold my hand",
+  "toets": "",
+  "voor": [],
+  "items": [
+   {
+    "en": "ruler",
+    "nl": "liniaal",
+    "zin": false
+   },
+   {
+    "en": "rubber",
+    "nl": "gum",
+    "zin": false
+   },
+   {
+    "en": "pencil sharpener",
+    "nl": "puntenslijper",
+    "zin": false
+   },
+   {
+    "en": "notebook",
+    "nl": "schrift",
+    "zin": false
+   },
+   {
+    "en": "glue stick",
+    "nl": "plakstift",
+    "zin": false
+   },
+   {
+    "en": "folder",
+    "nl": "mapje",
+    "zin": false
+   },
+   {
+    "en": "coloured pencils",
+    "nl": "kleurpotloden",
+    "zin": false
+   },
+   {
+    "en": "pencil case",
+    "nl": "etui",
+    "zin": false
+   },
+   {
+    "en": "watering the plants",
+    "nl": "de planten water geven",
+    "zin": false
+   },
+   {
+    "en": "sweeping the floor",
+    "nl": "de vloer vegen",
+    "zin": false
+   },
+   {
+    "en": "emptying the bin",
+    "nl": "de vuilnisbak leegmaken",
+    "zin": false
+   },
+   {
+    "en": "cleaning the whiteboard",
+    "nl": "het whitebord schoonvegen",
+    "zin": false
+   },
+   {
+    "en": "handing out worksheets",
+    "nl": "werkbladen uitdelen",
+    "zin": false
+   },
+   {
+    "en": "What's wrong?",
+    "nl": "Wat is er aan de hand?",
+    "zin": true,
+    "situatie": "Je vriendin zit stil in een hoekje en kijkt verdrietig. Je wilt weten wat er is."
+   },
+   {
+    "en": "Don't worry.",
+    "nl": "Maak je geen zorgen.",
+    "zin": true,
+    "situatie": "Je klasgenoot is bang dat de tekening mislukt. Je stelt diegene gerust."
+   },
+   {
+    "en": "Can I borrow your pencil, please?",
+    "nl": "Mag ik je potlood lenen, alsjeblieft?",
+    "zin": true,
+    "situatie": "Je potlood is kwijt. Je vraagt beleefd of je dat van je buurman even mag gebruiken."
+   },
+   {
+    "en": "Here you are.",
+    "nl": "Alsjeblieft. (als je iets aan iemand geeft)",
+    "zin": true,
+    "situatie": "Je buurvrouw vroeg om je gum. Je geeft hem aan haar."
+   },
+   {
+    "en": "What's your favourite classroom job?",
+    "nl": "Wat is jouw favoriete klusje in de klas?",
+    "zin": true,
+    "situatie": "Je wilt weten welk klusje in de klas je vriend het leukst vindt."
+   },
+   {
+    "en": "It's easy to do.",
+    "nl": "Het is makkelijk om te doen.",
+    "zin": true,
+    "situatie": "Iemand vraagt of de planten water geven moeilijk is. Jij vindt van niet."
+   },
+   {
+    "en": "You can walk around the classroom.",
+    "nl": "Je mag door de klas lopen.",
+    "zin": true,
+    "situatie": "Je legt uit waarom werkbladen uitdelen leuk is: je hoeft niet stil te zitten."
+   },
+   {
+    "en": "You make things clean.",
+    "nl": "Je maakt dingen schoon.",
+    "zin": true,
+    "situatie": "Je legt uit waarom je het whiteboard schoonmaken een fijn klusje vindt."
+   }
+  ],
+  "thema": "klusjes in de klas",
+  "tekst": {
+   "titel": "Jobs in our class",
+   "alineas": [
+    "Every Monday, Miss Kim gives everyone in our class a job. Sam is watering the plants. He is very careful, because the plants are small. Mia is cleaning the whiteboard. \"It's easy to do,\" she says. \"And you make things clean!\"",
+    "Tom is handing out worksheets. He likes his job, because you can walk around the classroom. Lisa is sweeping the floor and Ben is emptying the bin.",
+    "Then Ben looks sad. \"What's wrong?\" asks Mia. \"I can't find my pencil case,\" says Ben. \"My ruler, my rubber and my glue stick are in it.\" \"Don't worry,\" says Lisa. \"It is in your folder!\"",
+    "Ben smiles. \"Can I borrow your pencil, please?\" he asks Tom. \"Here you are,\" says Tom. What's your favourite classroom job?"
+   ],
+   "lezingen": [
+    {
+     "doel": "Waar gaat de tekst over?",
+     "vragen": [
+      {
+       "v": "Waar gaat de tekst vooral over?",
+       "opties": [
+        "Klusjes die kinderen in de klas doen",
+        "Een uitje naar de dierentuin",
+        "Een verjaardag op school"
+       ],
+       "goed": 0,
+       "uitleg": "In de eerste zin staat dat iedereen een job, een klusje, krijgt."
+      },
+      {
+       "v": "Wie geeft de kinderen een klusje?",
+       "opties": [
+        "Miss Kim, de juf",
+        "Ben",
+        "De kinderen kiezen zelf"
+       ],
+       "goed": 0,
+       "uitleg": "Miss Kim gives everyone a job: de juf deelt de klusjes uit."
+      }
+     ]
+    },
+    {
+     "doel": "Wat betekenen de woorden?",
+     "vragen": [
+      {
+       "v": "Sam is watering the plants. Wat doet Sam?",
+       "opties": [
+        "De planten water geven",
+        "De vloer vegen",
+        "Werkbladen uitdelen"
+       ],
+       "goed": 0,
+       "uitleg": "Watering the plants betekent de planten water geven."
+      },
+      {
+       "v": "Ben is emptying the bin. Wat doet Ben?",
+       "opties": [
+        "De vuilnisbak leegmaken",
+        "Het whitebord schoonvegen",
+        "Zijn etui zoeken"
+       ],
+       "goed": 0,
+       "uitleg": "Emptying the bin betekent de vuilnisbak leegmaken."
+      },
+      {
+       "v": "Ben kan zijn pencil case niet vinden. Wat is een pencil case?",
+       "opties": [
+        "Een etui",
+        "Een schrift",
+        "Een liniaal"
+       ],
+       "goed": 0,
+       "uitleg": "In de pencil case zitten zijn ruler, rubber en glue stick. Het is een etui."
+      }
+     ]
+    },
+    {
+     "doel": "Denk dieper na.",
+     "vragen": [
+      {
+       "v": "Waarom kijkt Ben verdrietig?",
+       "opties": [
+        "Hij kan zijn etui niet vinden",
+        "Hij vindt zijn klusje niet leuk",
+        "Hij heeft ruzie met Tom"
+       ],
+       "goed": 0,
+       "uitleg": "Ben zegt: I can't find my pencil case."
+      },
+      {
+       "v": "Waarom vindt Tom zijn klusje leuk?",
+       "opties": [
+        "Hij mag door de klas lopen",
+        "Het is makkelijk",
+        "Hij maakt dingen schoon"
+       ],
+       "goed": 0,
+       "uitleg": "Er staat: you can walk around the classroom."
+      },
+      {
+       "v": "Tom zegt: Here you are. Wat doet Tom op dat moment?",
+       "opties": [
+        "Hij geeft Ben zijn potlood",
+        "Hij vraagt om een gum",
+        "Hij zoekt het etui"
+       ],
+       "goed": 0,
+       "uitleg": "Ben vraagt om een potlood en Tom geeft het hem."
+      }
+     ]
+    }
+   ]
+  },
+  "voorbeeld": true
+ },
+ "voorbeeld-staal": {
+  "titel": "Voorbeeld: alle categorieën",
+  "soort": "spelling",
+  "voorbeeld": true,
+  "toets": "",
+  "voor": [],
+  "items": [
+   {
+    "w": "kast",
+    "cat": "hak"
+   },
+   {
+    "w": "brug",
+    "cat": "hak"
+   },
+   {
+    "w": "bang",
+    "cat": "zing"
+   },
+   {
+    "w": "slang",
+    "cat": "zing"
+   },
+   {
+    "w": "lucht",
+    "cat": "lucht"
+   },
+   {
+    "w": "nacht",
+    "cat": "lucht"
+   },
+   {
+    "w": "plank",
+    "cat": "plank"
+   },
+   {
+    "w": "drink",
+    "cat": "plank"
+   },
+   {
+    "w": "beer",
+    "cat": "eer"
+   },
+   {
+    "w": "deur",
+    "cat": "eer"
+   },
+   {
+    "w": "haai",
+    "cat": "aai"
+   },
+   {
+    "w": "groei",
+    "cat": "aai"
+   },
+   {
+    "w": "leeuw",
+    "cat": "eeuw"
+   },
+   {
+    "w": "nieuw",
+    "cat": "eeuw"
+   },
+   {
+    "w": "hond",
+    "cat": "lang"
+   },
+   {
+    "w": "web",
+    "cat": "lang"
+   },
+   {
+    "w": "ramen",
+    "cat": "klank"
+   },
+   {
+    "w": "bomen",
+    "cat": "klank"
+   },
+   {
+    "w": "bakken",
+    "cat": "dubbel"
+   },
+   {
+    "w": "kippen",
+    "cat": "dubbel"
+   },
+   {
+    "w": "boompje",
+    "cat": "klein"
+   },
+   {
+    "w": "stoeltje",
+    "cat": "klein"
+   },
+   {
+    "w": "trein",
+    "cat": "weet"
+   },
+   {
+    "w": "saus",
+    "cat": "weet"
+   }
+  ],
+  "thema": "alle categorieën"
+ }
+}
